@@ -44,10 +44,8 @@ hobbies:
   ]
   
 ```
-  </p>  
-  <a href="https://www.instagram.com/ja_va_script_?igsh=MTVleTM5NHF2b2Q3aQ==">clicca</a>
 
-<h2 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2 align="center"> 🚀 &nbsp;Some Tools I Have fun using</h2>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
