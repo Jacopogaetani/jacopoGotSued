@@ -1,4 +1,4 @@
-<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=Jacopo Gaetani"></p>
+<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=Jacopogaetani"></p>
 
 <p align="center">
 <img src ="https://tenor.com/view/gundam-wing-hello-kitty-battle-fight-me-showdown-gif-14899212.gif" alt = "gundam">
