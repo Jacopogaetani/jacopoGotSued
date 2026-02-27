@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <a href="https://www.instagram.com/ja_va_script_?igsh=MTVleTM5NHF2b2Q3aQ=="><img src="https://github.com/gilbarbara/logos/blob/main/logos/instagram-icon.svg"></img></a>
+    <a href="https://www.instagram.com/ja_va_script_?igsh=MTVleTM5NHF2b2Q3aQ=="><img src="https://github.com/gilbarbara/logos/blob/main/logos/instagram-icon.svg" width="50" height="50"></img></a>
 </p>
 
 <h2 align="center"> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
